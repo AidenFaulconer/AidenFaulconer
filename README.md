@@ -38,5 +38,5 @@
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-000000?style=flat&logo=cisco&logoColor=000064)
 ![VSCode](https://img.shields.io/badge/-XCode-000000?style=flat&logo=XCode&logoColor=000064)<!-- wi*quL3fcV -->
 
-**Projects**
+**Website**
 [![My Website](https://img.shields.io/badge/-🧬&nbsp;&nbsp;My&nbsp;Website-000000?style=flat)](https://aidenfaulconer.tech)
