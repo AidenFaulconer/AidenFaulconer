@@ -1,42 +1,92 @@
-<!-- [![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ) -->
+# Hi, I'm Aiden Faulconer
 
-<!-- [![Aiden Faulconer](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a95eb483-3f5e-4373-bcb3-6d0c0b02721e/doc_banner_3.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220212%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220212T073811Z&X-Amz-Expires=86400&X-Amz-Signature=6332a834fe59dff07098d21f8fabcb5e3e472c6c64c68498e27f682672397977&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22doc%2520banner%25203.png%22&x-id=GetObject)](https://www.adamalston.com/) -->
+**Platform & AI engineer** — I design and ship systems from **local LLM clusters** and **agent tooling** to **cloud platforms**, **data pipelines**, and **full-stack products**.
 
-**Languages I have used**
+I work across the stack: inference & MCP integrations, Docker/Kubernetes-style ops, APIs, frontends, and the glue in between. Comfortable owning a problem from architecture → implementation → production.
 
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=000064)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=000064) 4)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=000064)
-![GO](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=000064)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
-![Swift](https://img.shields.io/badge/-Swift-000000?style=flat&logo=Swift)
+[![Website](https://img.shields.io/badge/Website-aidenfaulconer.tech-0ea5e9?style=for-the-badge)](https://aidenfaulconer.tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_HANDLE)
+[![Email](https://img.shields.io/badge/Email-Reach%20out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
-**Some of the technologies I have worked with**
+---
 
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=000064)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000064)
-![Jira](https://img.shields.io/badge/-Jira-000000?style=flat&logo=jira-software&logoColor=white&logoColor=000064)
-![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=000064)
-![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=000064)
-![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=000064)
-![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=000064)
+## What I bring to a team
 
-![MongoDB](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=000064)
-![.NET](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=000064)
-![AWS](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=000064)
-![Vue](https://img.shields.io/badge/-Spring-000000?style=flat&logo=spring&logoColor=000064)
-![Blender](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=000064)
-![Maya](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=000064)
-![ZBrush](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=000064)
-![UE4](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=000064)
-![Unity](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=000064)
+| Domain | What I actually do |
+|--------|-------------------|
+| **AI / LLM** | Local & hosted inference (llama.cpp, OpenAI-compatible gateways), prompt pipelines, MCP servers, agent workflows (Cursor, Continue, custom tooling) |
+| **Platform / DevOps** | Docker Compose, routing/proxies, health checks, resource limits, CI-minded repo layout, observability-minded design |
+| **Data / Big Data** | SQL & document stores, ETL-style pipelines, API integration, schema design, performance tuning |
+| **Backend** | REST & event-driven services, auth patterns, multi-tenant APIs, Python / Node / .NET / Go |
+| **Frontend** | React, Vue, TypeScript, product UX, design systems |
+| **Systems** | C/C++, Linux, networking fundamentals, performance under constraints (VRAM/RAM-aware ML deploys) |
 
-![TCP/IP](https://img.shields.io/badge/-TCP/IP-000000?style=flat&logo=cisco&logoColor=000064)
-![VSCode](https://img.shields.io/badge/-XCode-000000?style=flat&logo=XCode&logoColor=000064)<!-- wi*quL3fcV -->
+**Currently building:** [AI.DEN](https://github.com/YOUR_USER/AI.DEN) — local AI cluster (model router, speculative decoding, MCP, Open WebUI, IDE integrations).
 
-**Website**
-[![My Website](https://img.shields.io/badge/-🧬&nbsp;&nbsp;My&nbsp;Website-000000?style=flat)](https://aidenfaulconer.tech)
+---
+
+## Tech breadth (representative)
+
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
+
+**AI / ML / Data**  
+![LLM](https://img.shields.io/badge/LLM_Ops-llama.cpp,_MCP,_agents-8B5CF6?style=flat)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![OpenAI API](https://img.shields.io/badge/OpenAI--compatible_API-412991?style=flat)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+
+**Platform & Backend**  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+
+**Frontend & Product**  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+
+**Also:** real-time & creative tooling (Unity, Unreal, Blender, Maya) — useful for simulation, visualization, and technical art pipelines.
+
+---
+
+## Selected work
+
+<!-- Pin 3–6 repos. Replace with your real URLs. -->
+
+| Project | Focus |
+|---------|--------|
+| **[AI.DEN](https://github.com/YOUR_USER/AI.DEN)** | Local LLM stack: router, speculative decoding, MCP, multi-IDE |
+| **[Your flagship app](https://github.com/YOUR_USER/repo)** | One-line outcome: users, scale, or problem solved |
+| **[Another strong repo](https://github.com/YOUR_USER/repo)** | Backend / data / platform highlight |
+
+---
+
+## How I work
+
+- **Ship end-to-end** — not just tickets; I care about deployability, docs, and the next engineer who touches the code.
+- **Translate complexity** — ML, infra, and product constraints into clear tradeoffs for stakeholders.
+- **Learn in public** — repos, write-ups, and integrations that recruiters can *click and verify*.
+
+---
+
+## Let's connect
+
+- **Portfolio:** [aidenfaulconer.tech](https://aidenfaulconer.tech)
+- **Open to:** platform engineering, AI/ML infrastructure, full-stack with strong backend, data-heavy product teams
+- **Location / work:** [City, Country] · [Remote / Hybrid / Relocate]
+
+<!-- Optional: GitHub stats — uncomment if you want the graph -->
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true) -->
