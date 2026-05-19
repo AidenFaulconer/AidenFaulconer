@@ -74,8 +74,6 @@ Currently serving as an SRE at **Coles** (3+ years), ensuring high availability,
 | Project | Focus |
 |---------|--------|
 | **[AI.DEN](https://github.com/YOUR_USER/AI.DEN)** | Local LLM cluster — model router, speculative decoding, MCP, IDE integration. |
-| **[ros-sre-toolkit](https://github.com/YOUR_USER/ros-sre-toolkit)** (example) | Observability and chaos testing for ROS-based robot fleets. |
-| **[retail-slo-dashboard](https://github.com/YOUR_USER/retail-slo-dashboard)** | Real-time SLO tracking for Coles internal systems (genericized). |
 
 ---
 
