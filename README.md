@@ -82,7 +82,6 @@ Currently serving as an SRE at **Coles** (3+ years), ensuring high availability,
 - **End-to-end ownership** — from a vague requirement to a deployed, monitored, documented system.
 - **Reliability by default** — I design with failure modes, retries, timeouts, and observability baked in.
 - **Bridge robotics & software** — I translate physical constraints (sensors, actuators, real-time) into software abstractions that scale.
-- **Collaborative & learning** — I mentor, write RFCs, and share knowledge in the open.
 
 ---
 
