@@ -68,9 +68,7 @@ I work across the stack: inference & MCP integrations, Docker/Kubernetes-style o
 
 | Project | Focus |
 |---------|--------|
-| **[AI.DEN](https://github.com/YOUR_USER/AI.DEN)** | Local LLM stack: router, speculative decoding, MCP, multi-IDE |
-| **[Your flagship app](https://github.com/YOUR_USER/repo)** | One-line outcome: users, scale, or problem solved |
-| **[Another strong repo](https://github.com/YOUR_USER/repo)** | Backend / data / platform highlight |
+| **[AI.DEN](https://github.com/YOUR_USER/AI.DEN)** | Local LLM stack: router, speculative decoding, MCP, multi-IDE
 
 ---
 
