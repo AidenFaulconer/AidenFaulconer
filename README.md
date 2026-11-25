@@ -1,7 +1,6 @@
 # Hi, I'm Aiden
 
 **Software & Systems Engineer** — I build reliable, scalable systems across robotics, cloud infrastructure, data platforms, and full-stack applications.  
-My approach combines **SRE discipline**, **robotics thinking** (perception → planning → actuation), and **product-focused engineering**.
 
 Currently serving as an SRE at **Coles** (3+ years), ensuring high availability, observability, and automation for critical retail systems.  
 **Location:** Worldwide (remote-first)
